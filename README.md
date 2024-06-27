@@ -1,4 +1,7 @@
 nosql-challenge
+
+completed in partnership with John Haynes with support from local TA's
+
 Part 1: Database and Jupyter Notebook Set Up
 
 Import Data:
